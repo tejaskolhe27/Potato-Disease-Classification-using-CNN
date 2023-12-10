@@ -7,6 +7,10 @@ This project aims to classify potato diseases using Convolutional Neural Network
 ### Target Audience
 This project is designed for Machine Learning developers interested in potato disease classification and leveraging CNNs for image classification tasks.
 
+### Datasets
+
+https://www.kaggle.com/arjuntejaswi/plant-village
+
 ### Technologies Used
 - TensorFlow 2.5.0
 - FastAPI
